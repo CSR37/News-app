@@ -1,5 +1,5 @@
-const API_KEY = "fd390f26-6860-4819-b864-2e3d8716fb7f";
-const url = "http://eventregistry.org/api/v1/article/getArticles";
+const API_KEY = "bfec0748393a4d3e8e9cb50103d1df92";
+const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("India"));
 
